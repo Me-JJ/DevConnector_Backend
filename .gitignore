@@ -133,4 +133,4 @@ dist
 
 #ds store
 .DS_Store
-./config/default.json
+config/default.json
