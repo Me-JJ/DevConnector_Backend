@@ -1,6 +1,6 @@
 {
     "mongoURI":"mongodb+srv://jatin:jatin123456@cluster0.vzj82kb.mongodb.net/?retryWrites=true&w=majority",
     "jwtSecret":"IamaMILLIONAIRE",
-    "githubToken":"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"
+    "githubToken":"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"
     
 }
